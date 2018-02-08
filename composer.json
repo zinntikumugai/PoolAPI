@@ -1,5 +1,6 @@
 {
     "require": {
-        "mpyw/co": "^1.5"
+        "mpyw/co": "^1.5",
+        "mpyw/cowitter": "^1.0"
     }
 }

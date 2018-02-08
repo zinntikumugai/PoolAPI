@@ -13,6 +13,7 @@ class ComposerStaticInitd7a8f27923188b1e0ca914112ef55d4a
     public static $prefixLengthsPsr4 = array (
         'm' => 
         array (
+            'mpyw\\Cowitter\\' => 14,
             'mpyw\\Co\\' => 8,
         ),
         'R' => 
@@ -22,6 +23,10 @@ class ComposerStaticInitd7a8f27923188b1e0ca914112ef55d4a
     );
 
     public static $prefixDirsPsr4 = array (
+        'mpyw\\Cowitter\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mpyw/cowitter/src',
+        ),
         'mpyw\\Co\\' => 
         array (
             0 => __DIR__ . '/..' . '/mpyw/co/src',
