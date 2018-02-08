@@ -16,4 +16,12 @@ $Pools = array(
 		'SSL'=> true
 	)
 );
+
+$NPools = [
+	[
+		'NAME' => '',
+		'HOSTNAME'=> '',
+		'SSL'=> true
+	],
+];
 ?>
